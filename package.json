@@ -1,0 +1,23 @@
+{
+  "name": "nodevpnui",
+  "version": "1.0.0",
+  "description": "### Description This is the ui used to control within the local network freeradius, openvpn, fail2ban, iptables and generation of client certificates to go with openvpn certificates.",
+  "main": "index.js",
+  "dependencies": {
+    "external-ip": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beastofbobmin/nodevpnui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beastofbobmin/nodevpnui/issues"
+  },
+  "homepage": "https://github.com/beastofbobmin/nodevpnui#readme"
+}
